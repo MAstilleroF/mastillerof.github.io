@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6 {
   color: rgb(51, 255, 51);
 }
 
+header h1 {
+  color: rgb(51, 255, 51) !important;
+}
+
 li {
   list-style-image: none;
   list-style-type: none;
