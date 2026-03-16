@@ -1,4 +1,4 @@
-# +qL es #másqueley.
+# +qL es #másqueley
 
 --> ALSP:
 * humano, `demasiado` abogado: si tienes un problema relacionado con el mundo del derecho, yo te lo resuelvo. `FIN`
@@ -9,13 +9,12 @@
 * Somos cual tecnoartesanos. Nuestro amor por la tecnología no nos hace perder de vista el trato personal y humano. Tu caso será nuestro caso: lo lucharemos como si fuera nuestro. Y esto —aunque no lo creas— es un problema para nosotros, por más que sea una gran ventaja para ti.
 Por eso, no llevamos casos pequeños y fáciles (la conjunción suma: pequeños + fáciles).
 
-`_That’s all Folks!_`
+_That’s all Folks!_
 
 --> Contacto / _Contact_:
 * [Web](https://manuelastillero.carrd.co).
 * [WhatsApp](https://wa.me/34630060722).
 * [Telegram](http://t.me/mastillerof).
-* [LinkedIn](https://www.linkedin.com/in/manuelastillero) (a ver, que sí, que es un pestiño) / _(Well, OK, it is a bit of a bore)_.
 
 ```
 #másqueley +qL #morethanlaw #abogado  #lawyer #ALSP #casodifícil 😅 #difficultcase 😉 #casoimposible 🙃  #impossiblecase #excelencia 📚 #excellence #honestidad 😇 #honesty #esfuerzo 💪🏼 #strength #Justicia ⚖️ #Justice #Libertad 😎 #Freedom #Verdad #Truth #privacidad 🤐 #privacy #tradición 🧐 #tradition #pragmatismo 👌🏼 #pragmatism #razonamientoalternativo 💭 #alternativereasoning #imaginación 🦄 #imagination #tecnología 🤓 #technology #creatividad #creativity #arte 🎨 #art #empresa 👷🏼‍♂️ #enterprise #startup #crisis ⛑️ #reestructuración #restructuring #soluciónextrajudicial 🤫 #outofocurtworkout #gestióndepatrimonios 💰 #wealthmanagement #cadenadebloques 🔗 #blockchain #criptoactivos ₿  #cryptoassets #NFT #ficha #token #instrumentofinanciero #securities #CEX 📈 #DEX #contratointeligente #smartcontract #DAO #fintech #MiCA #MIFID
