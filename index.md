@@ -9,7 +9,7 @@
 * Somos cual tecnoartesanos. Nuestro amor por la tecnología no nos hace perder de vista el trato personal y humano. Tu caso será nuestro caso: lo lucharemos como si fuera nuestro. Y esto —aunque no lo creas— es un problema para nosotros, por más que sea una gran ventaja para ti.
 Por eso, no llevamos casos pequeños y fáciles (la conjunción suma: pequeños + fáciles).
 
-_That’s all Folks!_
+`_That’s all Folks!_`
 
 --> Contacto / _Contact_:
 * [Web](https://manuelastillero.carrd.co).
