@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-hacker';
 
+header {
+  border-bottom: none;
+}
+
 body {
   background-image: none;
   background-color: rgb(10, 10, 10);
