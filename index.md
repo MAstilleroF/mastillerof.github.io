@@ -1,8 +1,11 @@
-+qL es #másqueley
+# +qL es #másqueley
 
-Manuel Astillero,
-* abogado de casos difíciles e (incluso) imposibles
-* a lawyer specialising in difficult and (even) impossible cases_
+```diff
+- Manuel Astillero,
+- abogado de casos difíciles e (incluso) imposibles
+- a lawyer specialising in difficult and (even) impossible cases_
+```
+
 
 --> [+qL](https://manuelastillero.carrd.co), ALSP:
 * humano, `demasiado` abogado: si tienes un problema relacionado con el mundo del derecho, yo te lo resuelvo. `FIN`
