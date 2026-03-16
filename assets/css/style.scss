@@ -8,8 +8,16 @@ body {
   background-color: rgb(10, 10, 10);
 }
 
-code {
+h1, h2, h3, h4, h5, h6 {
   color: rgb(51, 255, 51);
+}
+
+li {
+  color: rgb(51, 255, 51);
+}
+
+code, code * {
+  color: rgb(51, 255, 51) !important;
 }
 
 a {
@@ -17,5 +25,5 @@ a {
 }
 
 a:hover {
-  color: rgb(168, 232, 66);
+  color: rgb(51, 255, 51);
 }
