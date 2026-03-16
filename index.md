@@ -1,4 +1,4 @@
-# +qL es #másqueley
+# +qL es #másqueley.
 
 --> ALSP:
 * humano, `demasiado` abogado: si tienes un problema relacionado con el mundo del derecho, yo te lo resuelvo. `FIN`
