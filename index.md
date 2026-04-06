@@ -26,4 +26,8 @@ _That’s all Folks!_
 #másqueley +qL #morethanlaw #abogado #lawyer #ALSP #casodifícil 😅 #difficultcase 😉 #casoimposible 🙃 #impossiblecase #excelencia 📚 #excellence #honestidad 😇 #honesty #esfuerzo 💪🏼 #strength #Justicia ⚖️ #Justice #Libertad 😎 #Freedom #Verdad #Truth #privacidad 🤐 #privacy #tradición 🧐 #tradition #pragmatismo 👌🏼 #pragmatism #razonamientoalternativo 💭 #alternativereasoning #imaginación 🦄 #imagination #tecnología 🤓 #technology #creatividad #creativity #arte 🎨 #art #empresa 👷🏼‍♂️ #enterprise #startup #crisis ⛑️ #reestructuración #restructuring #soluciónextrajudicial 🤫 #outofocurtworkout #gestióndepatrimonios 💰 #wealthmanagement #cadenadebloques 🔗 #blockchain #criptoactivos ₿ #cryptoassets #NFT #ficha #token #instrumentofinanciero #securities #CEX 📈 #DEX #contratointeligente #smartcontract #DAO #fintech #MiCA #MIFID
 ```
 
+--> Verificación / _Verification_:
+> Clave PGP pública / _Public PGP key_: `1BB0 B07F 6D74 0B93 39F5 4A6E 8E14 6FF6 D0AC BDAF`
+> [Descargar clave / _Download key_](./pgp.txt) · [Verificar / _Verify_](https://keys.openpgp.org/search?q=manuel.astillero@icam.es)
+
 © 2026 Manuel Astillero. +qL es marca registrada. _All rights reserved_.
