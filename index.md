@@ -28,9 +28,10 @@ _That’s all Folks!_
 
 --> Verificación / _Verification_:
 > Clave PGP pública / _Public PGP key_: `1BB0 B07F 6D74 0B93 39F5 4A6E 8E14 6FF6 D0AC BDAF`
-> [Descargar clave / _Download key_](./pgp.txt) · [Verificar / _Verify_](https://keys.openpgp.org/search?q=manuel.astillero@icam.es)
-> [Mensaje firmado / _Signed message_](https://keys.openpgp.org/search?q=manuel.astillero@icam.es)
-> [Verificar / _Verify_](https://pgp.help)
+>> [Descargar clave / _Download key_](./pgp.txt)
+>>> [Verificar clave / _Verify key_](https://keys.openpgp.org/search?q=manuel.astillero@icam.es)
+> [Mensaje firmado / _Signed message_](./Mensaje_firmado.txt.asc)
+>> [Verificar / _Verify_](https://pgp.help)
 
 
 © 2026 Manuel Astillero. +qL es marca registrada. _All rights reserved_.
