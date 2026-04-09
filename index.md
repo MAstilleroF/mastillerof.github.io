@@ -33,5 +33,4 @@ _That’s all Folks!_
 > [Mensaje firmado / _Signed message_](./Mensaje_firmado.txt.asc)
 >> [Verificar / _Verify_](https://pgp.help)
 
-
 © 2026 Manuel Astillero. +qL es marca registrada. _All rights reserved_.
