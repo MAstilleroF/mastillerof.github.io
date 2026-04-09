@@ -31,6 +31,6 @@ _That’s all Folks!_
 
 > [Descargar clave / _Download key_](./pgp.txt) · [Verificar clave / _Verify key_](https://keys.openpgp.org/search?q=manuel.astillero@icam.es)
 
-> [Mensaje firmado / _Signed message_](./Mensaje_firmado.txt.asc) · [Verificar mensaje / _Verify message_](https://pgp.help)
+> [Mensaje firmado / _Signed message_](./Mensaje_firmado.txt) · [Verificar mensaje / _Verify message_](https://pgp.help)
 
 © 2026 Manuel Astillero. +qL es marca registrada. _All rights reserved_.
